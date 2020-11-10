@@ -211,7 +211,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information. Signup <a href="https://www.graduateschools.uni-wuerzburg.de/life-sciences/doctoral-research"> at the GSLS </a>.
+  for more information. Signup <a href="https://www.graduateschools.uni-wuerzburg.de/life-sciences/doctoral-researchers/training/transferable-skills/transferable-skills-registration/"> at the GSLS </a>.
 </p>
 
 <p id="roles">
